@@ -88,3 +88,39 @@
 <li><a href="https://en.wikipedia.org/wiki/Semiconductor_nanocrystal" target="_blank" rel="nofollow noopener">Semiconductor nanocrystals</a>: What is the cause of the&nbsp;<strong>nonparabolicity</strong>&nbsp;of the energy-size dependence for the lowest&nbsp;<a href="https://en.wikipedia.org/wiki/Absorption_(electromagnetic_radiation)" target="_blank" rel="nofollow noopener">optical absorption transition</a>&nbsp;of&nbsp;<a href="https://en.wikipedia.org/wiki/Quantum_dots" target="_blank" rel="nofollow noopener">quantum dots</a>?</li>
 <li><a href="https://en.wikipedia.org/wiki/Whisker_(metallurgy)" target="_blank" rel="nofollow noopener">Metal whiskering</a>: In electrical devices, some metallic surfaces may spontaneously grow fine metallic whiskers, which can lead to equipment failures. While compressive mechanical stress is known to encourage whisker formation, the growth mechanism has yet to be determined.</li>
 </ul>
+
+</br>
+
+<h2>Chemistry: </h2>
+
+<ul>
+<li>What are the electronic structures of&nbsp;<a href="https://en.wikipedia.org/wiki/High-temperature_superconductors" target="_blank" rel="nofollow noopener">high-temperature superconductors</a>&nbsp;at various points on their&nbsp;<a href="https://en.wikipedia.org/wiki/Phase_diagram" target="_blank" rel="nofollow noopener">phase diagrams</a>?</li>
+<li>Can the transition temperature of high-temperature superconductors be&nbsp;<a href="https://en.wikipedia.org/wiki/Room-temperature_superconductor" target="_blank" rel="nofollow noopener">brought up to room temperature</a>?</li>
+<li>Is&nbsp;<a href="https://en.wikipedia.org/wiki/Feynmanium" target="_blank" rel="nofollow noopener">Feynmanium</a>&nbsp;the last chemical element that can physically exist? That is, what are the chemical consequences of having an element with an atomic number above 137, whose 1s electrons must travel faster than the&nbsp;<a href="https://en.wikipedia.org/wiki/Speed_of_light" target="_blank" rel="nofollow noopener">speed of light</a>?</li>
+<li>Is&nbsp;<a href="https://en.wikipedia.org/wiki/Tetraneutron" target="_blank" rel="nofollow noopener">Neutronium-4</a>&nbsp;possible?</li>
+<li>How can&nbsp;<a href="https://en.wikipedia.org/wiki/Electromagnetic_energy" target="_blank" rel="nofollow noopener">electromagnetic energy</a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Photons" target="_blank" rel="nofollow noopener">photons</a>) be efficiently converted to&nbsp;<a href="https://en.wikipedia.org/wiki/Chemical_energy" target="_blank" rel="nofollow noopener">chemical energy</a>? For example, can water be efficiently split to hydrogen and oxygen using&nbsp;<a href="https://en.wikipedia.org/wiki/Solar_energy" target="_blank" rel="nofollow noopener">solar energy</a>?</li>
+<li>Is an&nbsp;<em>abiologic origin of&nbsp;</em><a href="https://en.wikipedia.org/wiki/Chirality" target="_blank" rel="nofollow noopener"><em>chirality</em></a>&nbsp;as is found in (2<em>R</em>)-2,3-dihydroxypropanal (<a href="https://en.wikipedia.org/wiki/D-glyceraldehyde" target="_blank" rel="nofollow noopener">D-glyceraldehyde</a>), and also in&nbsp;<a href="https://en.wikipedia.org/wiki/Amino_acid" target="_blank" rel="nofollow noopener">amino acids</a>, sugars, etc., possible?</li>
+<li>Why are accelerated&nbsp;<a href="https://en.wikipedia.org/wiki/Chemical_kinetics" target="_blank" rel="nofollow noopener">kinetics</a>&nbsp;observed for some&nbsp;<a href="https://en.wikipedia.org/wiki/On_water_reactions" target="_blank" rel="nofollow noopener"><em>organic reactions at the water-organic interface</em></a>?</li>
+<li>What is the&nbsp;<em>origin of the&nbsp;</em><a href="https://en.wikipedia.org/wiki/Alpha_effect" target="_blank" rel="nofollow noopener"><em>alpha effect</em></a>, that is, that nucleophiles with an electronegative atom with lone pairs adjacent to the nucleophilic center are particularly reactive?</li>
+<li>&nbsp;Why do some&nbsp;<a href="https://en.wikipedia.org/wiki/Enzyme" target="_blank" rel="nofollow noopener">enzymes</a>&nbsp;exhibit faster-than-diffusion kinetics?</li>
+<li>Is it possible to predict the secondary, tertiary and quaternary structure of a&nbsp;<a href="https://en.wikipedia.org/wiki/Polypeptide" target="_blank" rel="nofollow noopener">polypeptide</a>&nbsp;sequence based solely on the sequence and environmental information? Inverse protein-folding problem: Is it possible to design a polypeptide sequence which will adopt a given structure under certain environmental conditions? This has been achieved for several small globular proteins in recent years.</li>
+<li>Is it possible to accurately predict the secondary, tertiary and quaternary structure of a polyribonucleic acid sequence based on its sequence and environment?</li>
+<li>What are the chemical&nbsp;<a href="https://en.wikipedia.org/wiki/Abiogenesis" target="_blank" rel="nofollow noopener"><strong>origins of life</strong></a>? How did non-living chemical compounds generate self-replicating, complex life forms?</li>
+<li>Is it possible to design highly active enzymes&nbsp;<em>de novo</em>&nbsp;for any desired reaction?</li>
+<li>Can desired molecules, natural products or otherwise, be produced in high yield through biosynthetic pathway manipulation?</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
