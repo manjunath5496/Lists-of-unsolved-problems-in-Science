@@ -219,6 +219,64 @@
 <li><a href="https://en.wikipedia.org/wiki/Noogenesis" target="_blank" rel="nofollow noopener">Noogenesis</a>&nbsp;- the&nbsp;<a href="https://en.wikipedia.org/wiki/Emergence" target="_blank" rel="nofollow noopener" data-artdeco-is-focused="true">emergence</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Evolution" target="_blank" rel="nofollow noopener">evolution</a>&nbsp;of&nbsp;<a href="https://en.wikipedia.org/wiki/Intelligence" target="_blank" rel="nofollow noopener">intelligence</a>: What are the laws and mechanisms - of new&nbsp;<a href="https://en.wikipedia.org/wiki/Idea" target="_blank" rel="nofollow noopener">idea</a>&nbsp;emergence (<a href="https://en.wikipedia.org/wiki/Insight" target="_blank" rel="nofollow noopener">insight</a>, creativity synthesis,&nbsp;<a href="https://en.wikipedia.org/wiki/Intuition" target="_blank" rel="nofollow noopener">intuition</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Decision-making" target="_blank" rel="nofollow noopener">decision-making</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Eureka_effect" target="_blank" rel="nofollow noopener">eureka</a>); development (evolution) of an individual&nbsp;<a href="https://en.wikipedia.org/wiki/Mind" target="_blank" rel="nofollow noopener">mind</a>&nbsp;in the&nbsp;<a href="https://en.wikipedia.org/wiki/Ontogenesis" target="_blank" rel="nofollow noopener">ontogenesis</a>, etc.?</li>
 </ul>
 
+</br>
+
+<h2>Computer Science: </h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/P_versus_NP_problem" target="_blank" rel="nofollow noopener">P versus NP problem</a></li>
+<li>What is the relationship between&nbsp;<a href="https://en.wikipedia.org/wiki/BQP" target="_blank" rel="nofollow noopener">BQP</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/NP_(complexity)" target="_blank" rel="nofollow noopener">NP</a>?</li>
+<li><a href="https://en.wikipedia.org/wiki/NC_%3D_P_problem" target="_blank" rel="nofollow noopener">NC = P problem</a></li>
+<li><a href="https://en.wikipedia.org/wiki/NP_%3D_co-NP_problem" target="_blank" rel="nofollow noopener">NP = co-NP problem</a></li>
+<li><a href="https://en.wikipedia.org/wiki/P_%3D_BPP_problem" target="_blank" rel="nofollow noopener">P = BPP problem</a></li>
+<li><a href="https://en.wikipedia.org/wiki/P_%3D_PSPACE_problem" target="_blank" rel="nofollow noopener">P = PSPACE problem</a></li>
+<li><a href="https://en.wikipedia.org/wiki/NL_(complexity)" target="_blank" rel="nofollow noopener">L = NL problem</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Polynomial_hierarchy" target="_blank" rel="nofollow noopener">PH = PSPACE problem</a></li>
+<li>L = P problem</li>
+<li>L =&nbsp;<a href="https://en.wikipedia.org/wiki/RL_(complexity)" target="_blank" rel="nofollow noopener">RL</a>&nbsp;problem</li>
+<li><a href="https://en.wikipedia.org/wiki/Unique_games_conjecture" target="_blank" rel="nofollow noopener">Unique games conjecture</a></li>
+<li>Is the&nbsp;<a href="https://en.wikipedia.org/wiki/Exponential_time_hypothesis" target="_blank" rel="nofollow noopener">exponential time hypothesis</a>&nbsp;true?</li>
+<li>Is the strong exponential time hypothesis (SETH) true?</li>
+<li>Do&nbsp;<a href="https://en.wikipedia.org/wiki/One-way_function" target="_blank" rel="nofollow noopener">one-way functions</a>&nbsp;exist?</li>
+<li>Is&nbsp;<a href="https://en.wikipedia.org/wiki/Public-key_cryptography" target="_blank" rel="nofollow noopener">public-key cryptography</a>&nbsp;possible?</li>
+<li><a href="https://en.wikipedia.org/wiki/Log-rank_conjecture" target="_blank" rel="nofollow noopener">Log-rank conjecture</a></li>
+<li>Can&nbsp;<a href="https://en.wikipedia.org/wiki/Integer_factorization" target="_blank" rel="nofollow noopener">integer factorization</a>&nbsp;be done in&nbsp;<a href="https://en.wikipedia.org/wiki/Polynomial_time" target="_blank" rel="nofollow noopener">polynomial time</a>&nbsp;on a classical (non-quantum) computer?</li>
+<li>Can&nbsp;<a href="https://en.wikipedia.org/wiki/Clustered_planarity" target="_blank" rel="nofollow noopener">clustered planar drawings</a>&nbsp;be found in polynomial time?</li>
+<li>Can the&nbsp;<a href="https://en.wikipedia.org/wiki/Discrete_logarithm#Algorithms" target="_blank" rel="nofollow noopener">discrete logarithm</a>&nbsp;be computed in polynomial time?</li>
+<li>Can the&nbsp;<a href="https://en.wikipedia.org/wiki/Graph_isomorphism_problem" target="_blank" rel="nofollow noopener">graph isomorphism problem</a>&nbsp;be solved in polynomial time?</li>
+<li>Can&nbsp;<a href="https://en.wikipedia.org/wiki/Leaf_power" target="_blank" rel="nofollow noopener">leaf powers</a>&nbsp;and&nbsp;k-leaf powers be recognized in polynomial time?</li>
+<li>Can&nbsp;<a href="https://en.wikipedia.org/wiki/Parity_game" target="_blank" rel="nofollow noopener">parity games</a>&nbsp;be solved in polynomial time?</li>
+<li>Can the&nbsp;<a href="https://en.wikipedia.org/wiki/Rotation_distance" target="_blank" rel="nofollow noopener">rotation distance</a>&nbsp;between two&nbsp;<a href="https://en.wikipedia.org/wiki/Binary_tree" target="_blank" rel="nofollow noopener">binary trees</a>&nbsp;be computed in polynomial time?</li>
+<li>Can graphs of bounded&nbsp;<a href="https://en.wikipedia.org/wiki/Clique-width" target="_blank" rel="nofollow noopener">clique-width</a>&nbsp;be recognized in polynomial time?</li>
+<li>Can one find a&nbsp;<a href="https://en.wikipedia.org/wiki/Theorem_of_the_three_geodesics" target="_blank" rel="nofollow noopener">simple closed quasigeodesic</a>&nbsp;on a convex polyhedron in polynomial time?</li>
+<li>Can a&nbsp;<a href="https://en.wikipedia.org/wiki/Simultaneous_embedding" target="_blank" rel="nofollow noopener">simultaneous embedding</a>&nbsp;with fixed edges for two given graphs be found in polynomial time?</li>
+<li>The&nbsp;<a href="https://en.wikipedia.org/wiki/Splay_tree#Dynamic_optimality_conjecture" target="_blank" rel="nofollow noopener">dynamic optimality conjecture</a>: do splay trees have a bounded competitive ratio?</li>
+<li>Is there a&nbsp;k-competitive online algorithm for the&nbsp;<a href="https://en.wikipedia.org/wiki/K-server_problem" target="_blank" rel="nofollow noopener">k-server problem</a>?</li>
+<li>Can a&nbsp;<a href="https://en.wikipedia.org/wiki/Tr%C3%A9maux_tree" target="_blank" rel="nofollow noopener">depth-first search tree</a>&nbsp;be constructed in&nbsp;<a href="https://en.wikipedia.org/wiki/NC_(complexity)" target="_blank" rel="nofollow noopener">NC</a>?</li>
+<li>Can the&nbsp;<a href="https://en.wikipedia.org/wiki/Fast_Fourier_transform" target="_blank" rel="nofollow noopener">fast Fourier transform</a>&nbsp;be computed in&nbsp;<em>o</em>(<em>n</em>&nbsp;log&nbsp;<em>n</em>)&nbsp;time?</li>
+<li>What is the fastest&nbsp;<a href="https://en.wikipedia.org/wiki/Multiplication_algorithm#Fast_multiplication_algorithms_for_large_inputs" target="_blank" rel="nofollow noopener">algorithm for multiplication</a>&nbsp;of two&nbsp;<em>n</em>-digit numbers?</li>
+<li>What is the lowest possible average-case time complexity of&nbsp;<a href="https://en.wikipedia.org/wiki/Shellsort" target="_blank" rel="nofollow noopener">Shellsort</a>&nbsp;with a deterministic, fixed gap sequence?</li>
+<li>Can&nbsp;<a href="https://en.wikipedia.org/wiki/3SUM" target="_blank" rel="nofollow noopener">3SUM</a>&nbsp;be solved in strongly sub-quadratic time, that is, in time&nbsp;<em>O</em>(<em>n</em><sup>2&minus;ϵ</sup>)&nbsp;for some&nbsp;ϵ&gt;0?</li>
+<li>Can the&nbsp;<a href="https://en.wikipedia.org/wiki/Edit_distance" target="_blank" rel="nofollow noopener">edit distance</a>&nbsp;between two strings of length&nbsp;<em>n</em>&nbsp;be computed in strongly sub-quadratic time? (This is only possible if the strong&nbsp;<a href="https://en.wikipedia.org/wiki/Exponential_time_hypothesis" target="_blank" rel="nofollow noopener">exponential time hypothesis</a>&nbsp;is false.)</li>
+<li>Can&nbsp;<a href="https://en.wikipedia.org/wiki/X_%2B_Y_sorting" target="_blank" rel="nofollow noopener">X + Y sorting</a>&nbsp;be done in&nbsp;<em>o</em>(<strong><em>n</em><sup>2</sup></strong>&nbsp;log&nbsp;<em>n</em>)&nbsp;time?</li>
+<li>What is the fastest&nbsp;<a href="https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm" target="_blank" rel="nofollow noopener">algorithm for matrix multiplication</a>?</li>
+<li>Can&nbsp;<a href="https://en.wikipedia.org/wiki/Shortest_path_problem#All-pairs_shortest_paths" target="_blank" rel="nofollow noopener">all-pairs shortest paths</a>&nbsp;be computed in strongly sub-cubic time, that is, in time&nbsp;<em>O</em>(<em>V&nbsp;</em><sup>3&minus;ϵ</sup>)&nbsp;for some&nbsp;ϵ&gt;0?</li>
+<li>Can the&nbsp;<a href="https://en.wikipedia.org/wiki/Schwartz%E2%80%93Zippel_lemma" target="_blank" rel="nofollow noopener">Schwartz&ndash;Zippel lemma</a>&nbsp;for&nbsp;<a href="https://en.wikipedia.org/wiki/Polynomial_identity_testing" target="_blank" rel="nofollow noopener">polynomial identity testing</a>&nbsp;be&nbsp;<a href="https://en.wikipedia.org/wiki/Randomized_algorithm#Derandomization" target="_blank" rel="nofollow noopener">derandomized</a>?</li>
+<li>Does&nbsp;<a href="https://en.wikipedia.org/wiki/Linear_programming#Open_problems_and_recent_work" target="_blank" rel="nofollow noopener">linear programming</a>&nbsp;admit a&nbsp;<a href="https://en.wikipedia.org/wiki/Time_complexity#Strongly_and_weakly_polynomial_time" target="_blank" rel="nofollow noopener">strongly polynomial</a>-time algorithm?</li>
+<li>How many queries are required for&nbsp;<a href="https://en.wikipedia.org/wiki/Envy-free_cake-cutting" target="_blank" rel="nofollow noopener">envy-free cake-cutting</a>?</li>
+<li>What is the algorithm for the&nbsp;<a href="https://en.wikipedia.org/wiki/Lookup_table" target="_blank" rel="nofollow noopener">lookup table</a>&nbsp;that consistently generates playable mazes in the 1982&nbsp;<a href="https://en.wikipedia.org/wiki/Atari_2600" target="_blank" rel="nofollow noopener">Atari 2600</a>&nbsp;game&nbsp;<a href="https://en.wikipedia.org/wiki/Entombed_(Atari_2600)" target="_blank" rel="nofollow noopener">Entombed</a>&nbsp;merely from the values of the five pixels adjacent to the next ones to be generated?</li>
+<li>Is there any perfect&nbsp;<a href="https://en.wikipedia.org/wiki/Syllabification" target="_blank" rel="nofollow noopener">syllabification</a>&nbsp;algorithm in the English language?</li>
+<li>Is there any perfect&nbsp;<a href="https://en.wikipedia.org/wiki/Stemming" target="_blank" rel="nofollow noopener">stemming</a>&nbsp;algorithm in the English language?</li>
+<li>Is there any perfect&nbsp;<a href="https://en.wikipedia.org/wiki/POS_tagging" target="_blank" rel="nofollow noopener">POS tagging</a>&nbsp;algorithm in the English language?</li>
+</ul>
+
+
+
+
+
+
+
+
 
 
 
