@@ -290,9 +290,20 @@
 <li><a href="https://en.wikipedia.org/wiki/Sunrise_problem" target="_blank" rel="nofollow noopener"><strong>Sunrise problem</strong></a>: What is the probability that the sun will rise tomorrow? Very different answers arise depending on the methods used and assumptions made.</li>
 </ul>
 
+</br>
 
 
+<h2>Information Theory: </h2>
 
+<ul>
+<li><strong>Capacity of a network</strong>: The capacity of a general&nbsp;<a href="https://en.wikipedia.org/wiki/Wireless_network" target="_blank" rel="nofollow noopener">wireless network</a>&nbsp;is not known. There are some specific cases for which the capacity is known, such as the&nbsp;<a href="https://en.wikipedia.org/wiki/Channel_capacity#AWGN_channel" target="_blank" rel="nofollow noopener">AWGN channel</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Channel_capacity#Slow_fading_channel" target="_blank" rel="nofollow noopener">fading channel</a>.</li>
+<li><strong>Capacity of the broadcast channel</strong>:&nbsp;The capacity of the broadcast channel, or the case in which a single transmitter is sending information to many receivers is unknown in general, though it is known for several specific cases.</li>
+<li><strong>Capacity of the interference channel (Two User)</strong>: The capacity of the interference channel, in the case where there are two transmitter and receiver pairs that interfere among each other, is unknown in general. Capacity is known in special cases: strong interference regime, injective-deterministic. Capacity is known in approximate sense or with in a gap for: injective-semi-deterministic, additive white Gaussian noise with per block power constraint.</li>
+<li><strong>Capacity of the two-way channel</strong>:&nbsp;The capacity of the two-way channel (a channel in which information is sent in both directions simultaneously) is unknown.</li>
+<li><strong>The capacity of&nbsp;</strong><a href="https://en.wikipedia.org/wiki/ALOHAnet" target="_blank" rel="nofollow noopener"><strong>Aloha</strong></a><strong>:</strong>&nbsp;The ALOHAnet used a very simple access scheme for which the capacity is still unknown, though it is known in a few special cases.</li>
+<li><a href="https://en.wikipedia.org/wiki/Quantum_capacity" target="_blank" rel="nofollow noopener"><strong>Quantum capacity</strong></a>: The capacity of a quantum channel is in general not known.</li>
+<li><a href="https://en.wikipedia.org/wiki/Distributed_source_coding" target="_blank" rel="nofollow noopener"><strong>Distributed source coding</strong></a>: The best way to compress multiple correlated information sources that do not communicate with each other is not known.</li>
+</ul>
 
 
 
